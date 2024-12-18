@@ -1,0 +1,8 @@
+{
+  "message": {
+    "hello": "hello world",
+    "goodbye": "goodbye world",
+    "welcome": "welcome to the world"
+  },
+  "description": "This is a description"
+}
